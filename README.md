@@ -7,8 +7,8 @@
 - 📫 How to reach me: jx139@duke.edu
 
 #### Skills
-- Coding Languages: Python, C++, C, Java, SQL, R, Verilog, MATLAB             
-- Other Tools: Git, Emacs, UNIX, SciKit-Learn, Matplotlib, Seaborn, NumPy, Pandas, OR-Tools
+- Coding Languages: Python, C++, C, Java, HTML, CSS, SQL, R, Verilog, MATLAB             
+- Other Tools: Git, Django, PostgreSQL, Docker, Emacs, Valgrind, GDB, Linux, SciKit-Learn, Matplotlib, Pandas, OR-Tools
 
 #### Find me on LinkedIn
 [![icons8-linkedin-40](https://user-images.githubusercontent.com/67770063/209868323-f857fd1f-faad-401d-b9b9-9b8d743b8665.png)](https://www.linkedin.com/in/junhan-carol-xu/)
