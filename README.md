@@ -8,7 +8,7 @@
 
 #### Skills
 - Coding Languages: Python, C++, C, Java, HTML, CSS, JavaScript, SQL, R, Verilog, MATLAB           
-- Other Tools: Git, Linux, Docker, Valgrind, GDB, Django, REST, React, Vue, PostgreSQL, SciKit-Learn, Matplotlib, Pandas, OR-Tools
+- Other Tools: Git, Linux, Docker, Valgrind, GDB, Emacs, Django, REST, React, Vue, PostgreSQL, SciKit-Learn, Matplotlib, Pandas, OR-Tools
 
 #### Find me on LinkedIn
 [![icons8-linkedin-40](https://user-images.githubusercontent.com/67770063/209868323-f857fd1f-faad-401d-b9b9-9b8d743b8665.png)](https://www.linkedin.com/in/junhan-carol-xu/)
