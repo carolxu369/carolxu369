@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Junhan (Carol) Xu. I'm actively seeking 2023 summer software developer internships.
+### 👋 Hi, I’m Junhan (Carol) Xu. I'm actively seeking 2024 Software Developer Full-Time opportunities.
 #
 - 🌱 I’m interested in programming and software development 💻.
 - <img width="21" alt="Screen Shot 2022-12-28 at 14 46 17" src="https://user-images.githubusercontent.com/67770063/209864603-2102b40d-ca02-4c61-ba74-6566046641e8.png"> I’m currently having my MS in ECE Software Development at Duke University.
@@ -7,8 +7,8 @@
 - 📫 How to reach me: jx139@duke.edu
 
 #### Skills
-- Coding Languages: Python, C++, C, Java, HTML, CSS, SQL, R, Verilog, MATLAB             
-- Other Tools: Git, Django, PostgreSQL, Docker, Emacs, Valgrind, GDB, Linux, SciKit-Learn, Matplotlib, Pandas, OR-Tools
+- Coding Languages: Python, C++, C, Java, HTML, CSS, JavaScript, SQL, R, Verilog, MATLAB           
+- Other Tools: Git, Linux, Docker, Valgrind, GDB, Django, REST, React, Vue, PostgreSQL, SciKit-Learn, Matplotlib, Pandas, OR-Tools
 
 #### Find me on LinkedIn
 [![icons8-linkedin-40](https://user-images.githubusercontent.com/67770063/209868323-f857fd1f-faad-401d-b9b9-9b8d743b8665.png)](https://www.linkedin.com/in/junhan-carol-xu/)
